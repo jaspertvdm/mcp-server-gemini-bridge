@@ -1,12 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "id": "humotica-gemini-bridge",
-  "name": "Humotica - Gemini Bridge",
-  "author": "jaspertvdm",
-  "description": "Part of the HumoticaOS ecosystem (14,200+ downloads). Resilient MCP bridge for Gemini.",
-  "repository": "https://github.com/jaspertvdm/mcp-server-gemini-bridge",
-  "docker": {
-    "image": "python:3.11-slim",
-    "command": ["python", "-m", "mcp_server_gemini_bridge"]
-  }
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "jaspertvdm"
+  ]
 }
