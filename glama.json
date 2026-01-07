@@ -3,7 +3,7 @@
   "maintainers": [
     "jaspertvdm"
   ],
-  "name": "Gemini Bridge",
+  "name": "Humotica - Gemini Bridge",
   "description": "Bridge to Google Gemini API for MCP",
   "repository": "https://github.com/jaspertvdm/mcp-server-gemini-bridge",
   "license": "MIT",
