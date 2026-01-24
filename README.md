@@ -63,3 +63,11 @@ MIT
 ---
 
 **One Love, One fAmIly!**
+
+## Official Distribution
+
+This package is officially distributed via:
+- **PyPI**: https://pypi.org/project/mcp-server-gemini-bridge/
+- **GitHub**: https://github.com/jaspertvdm/mcp-server-gemini-bridge
+
+> **Note**: Third-party directories may list this package but are not official or verified distribution channels for Humotica software.
