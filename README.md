@@ -71,3 +71,5 @@ This package is officially distributed via:
 - **GitHub**: https://github.com/jaspertvdm/mcp-server-gemini-bridge
 
 > **Note**: Third-party directories may list this package but are not official or verified distribution channels for Humotica software.
+>
+> [![Available on CodeGuilds](https://img.shields.io/badge/Available_on-CodeGuilds-6366f1)](https://codeguilds.dev/packages/mcp-server-gemini-bridge)
